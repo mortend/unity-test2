@@ -11,3 +11,6 @@
 /unity/builds/android/unityLibrary/symbols/
 /unity/builds/android/unityLibrary/src/main/jniLibs
 /unity/builds/android/unityLibrary/src/main/Il2CppOutputProject/Source/il2cppOutput/lumpedcpp/
+/unity/builds/ios/Libraries/libiPhone-lib.dylib
+/unity/builds/ios/Libraries/libil2cpp.a
+/unity/builds/ios/Unity-iPhone.xcodeproj/xcuserdata/
