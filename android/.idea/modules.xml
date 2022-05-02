@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mytest.iml" filepath="$PROJECT_DIR$/.idea/modules/mytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mytest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mytest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1856958217/mytest.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1856958217/mytest.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/403625569/mytest.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/403625569/mytest.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-832682190/mytest.react-native-unity-play.iml" filepath="$PROJECT_DIR$/.idea/modules/-832682190/mytest.react-native-unity-play.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/72485171/mytest.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/72485171/mytest.unityLibrary.iml" />
+    </modules>
+  </component>
+</project>
