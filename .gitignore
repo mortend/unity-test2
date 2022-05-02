@@ -1,4 +1,7 @@
 .DS_Store
+/.vscode/
+/android/.gradle/
+/android/.idea/
 /android/app/build/
 /ios/**/*.xcuserdatad/
 /ios/mytest.xcodeproj/project.xcworkspace/
